@@ -1,0 +1,16 @@
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\bin\Debug\Green Dragon Media Player.exe.config
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\bin\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\bin\Debug\Green Dragon Media Player.pdb
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\bin\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\UserControl1.baml
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\UserControl1.g.vb
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player_Content.g.vb
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player_MarkupCompile.cache
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player.g.resources
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green_Dragon_Media_Player.AboutForm.resources
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green_Dragon_Media_Player.Form1.resources
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green_Dragon_Media_Player.Resources.resources
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player.exe
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player.xml
+C:\Users\emils_000\Desktop\Git Stuff\Green Dragon Media Player\obj\x86\Debug\Green Dragon Media Player.pdb
